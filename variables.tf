@@ -1,2 +1,2 @@
 variable region {}
-variable vcp_cidr {}
+variable vpc_cidr {}
